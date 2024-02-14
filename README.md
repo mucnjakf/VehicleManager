@@ -5,7 +5,7 @@ Vehicle Management Windows Desktop Application - 2019.
 ---
 
 ### **Overview**
-Vehicle Manager is a Windows desktop application for managing vehicles.
+VehicleManager is a versatile application designed for efficient vehicle management across various industries. Whether you're running a fleet management company, a car dealership, or simply managing personal vehicles, VehicleManager has you covered. With intuitive features, users can easily input, track, and analyze data related to vehicles, including make, model, year, mileage, maintenance history, and more.
 
 ---
 
@@ -14,9 +14,9 @@ Vehicle Manager is a Windows desktop application for managing vehicles.
   - .NET Framework 4.7.2 - WPF  
   - Entity Framework
   - Enterprise Library DAAB  
-- JAVA
+- Java
   - Java 8 Console App
-  - MSSQL Java Database Connectivity 8
+  - MSSQL Java Database Connectivity
   - Hibernate
 - Database
   - Microsoft SQL Server
@@ -24,7 +24,8 @@ Vehicle Manager is a Windows desktop application for managing vehicles.
 ---
 
 ### **Tools**
-- Source Control: JetBrains Space
-- IDE: Visual Studio 2019 & IntelliJ IDEA
+- Source Control: GitHub
+- IDE: Visual Studio 2019 | IntelliJ IDEA
+- RDBMS: SQL Server Management Studio
 
 ---
