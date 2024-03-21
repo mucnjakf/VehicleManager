@@ -1,4 +1,4 @@
-# <img src="vehiclemanager.png" width="25"/> VehicleManager
+# <img src="vehiclemanager.svg" width="25"/> VehicleManager
 
 ### **👁️ Overview**
 Vehicle Management Windows Desktop Application - 2019.
